@@ -19,7 +19,7 @@ However, the user can add/subtract any piece of vehicle attribute (showing up as
 3. Determine the columns (vehicle attributes) of the final output based on your needs by revising the 3rd block of code and, specifically, the `required_columns` variable.
 4. Run the 3rd block of code and locate your final output file, named `VIN_pulled_data.csv` in the same folder as your Notebook.
 --------------
-<b>Please use this code and the free NHTSA VIN Decoding API responsibly by not overloading or misusing this free feature.  We do not want NHTSA to turn this awesome feature into a paid/subscription-based feature. Thanks you!</b>
+<b>Please use this code and the free NHTSA VIN Decoding API responsibly by not overloading or misusing this free feature.  We do not want NHTSA to turn this awesome feature into a paid/subscription-based feature. Thank you!</b>
 
 -------------
 Let me know if you have any questions and comments at mahdipn[at]gmail[dot]com
