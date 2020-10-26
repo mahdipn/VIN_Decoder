@@ -1,4 +1,4 @@
-# VIN Decoder
+# VIN Decoder (V 1.0)
 This handy, Python-based code that I have developed can be used to decode Vehicle Identification Numbers (VIN) for as many vehicles as the user wishes want. The National Highway Traffic Safety Administration (NHTSA) public VIN Decoding API is employed to pull the relevant information. Based on my experience working on multiple projects, the following attributes are found the most relevant and will be pulled as part of this code:
 - VIN
 - Make
